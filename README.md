@@ -6,7 +6,7 @@ Note: The program was created using Jupyter Notebook, and each part (model) has 
 
 0. To ensure Jupyter is installed, open a command-line window and run the following command: `conda install jupyter`
 
-1. To run the Jupyter Notebook, open a command-line window within the project's root directory.
+1. To start the Jupyter Notebook instance, open a command-line window within the project's root directory.
 
 ![Img1](/images/img1.PNG)
 
