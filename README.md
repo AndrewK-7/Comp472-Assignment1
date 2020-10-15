@@ -2,7 +2,7 @@
 https://github.com/AndrewK-7/Comp472-Assignment1.git
 
 # How to run the program:
-Note: The program was created using Jupyter Notebook, and each part (algorithm) has been separated into it's own unique .ipynb file.
+Note: The program was created using Jupyter Notebook, and each part (model) has been separated into it's own unique .ipynb file.
 
 1. To run the Jupyter Notebook, open a command-line window within the project's root directory.
 
@@ -12,7 +12,7 @@ Note: The program was created using Jupyter Notebook, and each part (algorithm) 
 
 ![Img2](/images/img2.PNG)
 
-3. Select one of the .ipynb files to open that specific algorithm code.
+3. Select one of the .ipynb files to open that specific model code.
 
 ![Img3](/images/img3.PNG)
 
@@ -20,7 +20,7 @@ Note: The program was created using Jupyter Notebook, and each part (algorithm) 
 
 ![Img4](/images/img4.PNG)
 
-5. To view the output .csv files, navigate to the /results directory and select any of the specific files. There is one subdirectory for each of the parts (a through f) as to keep the folder organized. The training and testing distribution graphs (images) can also be found within the /results directory as well.
+5. To view the output .csv files, navigate to the /results directory and select any of the specific files. There is one subdirectory for each of the models (a through f) as to keep the folder organized. The training and testing sets' distribution graphs (images) can also be found within the /results directory as well.
 
 # Contributions:
 * Implementations for the sections "(a) GNB and (b) Base-DT" were done by Andrew K. (40055081)
