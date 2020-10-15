@@ -4,11 +4,13 @@ https://github.com/AndrewK-7/Comp472-Assignment1.git
 # How to run the program:
 Note: The program was created using Jupyter Notebook, and each part (model) has been separated into it's own unique .ipynb file.
 
+0. To ensure Jupyter is installed, open a command-line window and run the following command: `conda install jupyter`
+
 1. To run the Jupyter Notebook, open a command-line window within the project's root directory.
 
 ![Img1](/images/img1.PNG)
 
-2. Type in the command: "jupyter notebook" (without quotes) and wait for the notebook to open in your default browser.
+2. Type in the command: `jupyter notebook` and wait for the notebook to open in your default browser.
 
 ![Img2](/images/img2.PNG)
 
