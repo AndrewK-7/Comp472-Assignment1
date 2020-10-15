@@ -20,6 +20,8 @@ Note: The program was created using Jupyter Notebook, and each part (algorithm) 
 
 ![Img4](/images/img4.PNG)
 
+5. To view the output .csv files, navigate to the /results directory and select any of the specific files. There is one subdirectory for each of the parts (a through f) as to keep the folder organized. The training and testing distribution graphs (images) can also be found within the /results directory as well.
+
 # Contributions:
 * Implementations for the sections "(a) GNB and (b) Base-DT" were done by Andrew K. (40055081)
 * Implementations for the sections "(c) Best-DT and (d) PER" were done by Janghuk B. (40005573)
