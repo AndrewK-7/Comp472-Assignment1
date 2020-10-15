@@ -20,3 +20,7 @@ Note: The program was created using Jupyter Notebook, and each part (algorithm) 
 
 ![Img4](/images/img4.PNG)
 
+# Contributions:
+* Implementations for the sections "(a) GNB and (b) Base-DT" were done by Andrew K. (40055081)
+* Implementations for the sections "(c) Best-DT and (d) PER" were done by Janghuk B. (40005573)
+* Implementations for the sections "(e) Base-MLP and (f) Best-MLP" were done by Jixuan L. (40073785)
